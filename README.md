@@ -22,7 +22,7 @@ At Backend
 ```
 cd Backend/
 pip install -r requirements.txt
-python3 manage.py runserver
+python manage.py runserver
 ```
 
 ## Functionality
