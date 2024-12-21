@@ -28,7 +28,7 @@ python3 manage.py runserver
 
 A user can Register or Login to the app where the authentication and password hashing are handled by the Django admin framework. 
 
-The Logged in User can create new blogs, wherein they can Enter details such as Title,Description and even Tags (#cool) which can later be used, to search blogs using the Search Bar functionality in the header. 
+The Logged in User can create new blogs, wherein they can Enter details such as Title,Description and even Tags which can later be used, to search blogs using the Search Bar functionality in the header. 
 
 Example: while adding/updating the Tags in the new Blogs, or filtering blogs on basis of tags using Search bar, enter a Tag, and press enter, and so on.
 
