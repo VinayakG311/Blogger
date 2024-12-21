@@ -14,6 +14,7 @@ At Frontend
 
 ```
 cd Frontend/
+cd blogger_app/
 npm i
 npm run start
 ```
