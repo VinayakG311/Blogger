@@ -33,3 +33,7 @@ The Logged in User can create new blogs, wherein they can Enter details such as 
 Example: while adding/updating the Tags in the new Blogs, or filtering blogs on basis of tags using Search bar, enter a Tag, and press enter, and so on.
 
 
+
+https://github.com/user-attachments/assets/9424485f-a679-4250-b3e8-4d1309ec9b12
+
+
