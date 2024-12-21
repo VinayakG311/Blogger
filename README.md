@@ -20,6 +20,7 @@ npm run start
 
 At Backend
 ```
+cd Backend/
 pip install -r requirements.txt
 python3 manage.py runserver
 ```
