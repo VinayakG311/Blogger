@@ -123,7 +123,7 @@ function BlogCard({ blog,selected}) {
                             }}
                             placeholder="Add a comment"
                         />
-                        <FontAwesomeIcon icon={faPaperPlane} style={{ padding: "8px", marginTop: "10px", }} onClick={AddComment}/>
+                        <FontAwesomeIcon icon={faPaperPlane} style={{ padding: "8px", marginTop: "10px", }} onClick={user===null?()=>{alert("Login to Comment!")}:AddComment}/>
 
                     </div>
                     
