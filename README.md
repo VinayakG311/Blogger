@@ -1,7 +1,14 @@
 # Blogger
 An Instagram like blog application created  using Django and React Framework.
 
-To run the Application:
+
+##Overview
+
+Backend- Utilizes Django framework to handle requests from the frontend such as User Login and Register, Blog CRUD, Comments and Tags handling and a lot more.
+
+Frontend- Utilizes React framework to create a UI and use axios for making API requests to the Django backend.
+
+## Installation
 
 At Frontend
 ```
