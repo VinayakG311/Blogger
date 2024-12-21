@@ -32,8 +32,15 @@ The Logged in User can create new blogs, wherein they can Enter details such as 
 
 Example: while adding/updating the Tags in the new Blogs, or filtering blogs on basis of tags using Search bar, enter a Tag, and press enter, and so on.
 
-
+Demo for Adding Tags to a Blog:
 
 https://github.com/user-attachments/assets/9424485f-a679-4250-b3e8-4d1309ec9b12
+
+Demo for Search Blogs by Tag:
+
+https://github.com/user-attachments/assets/22bce2a9-a351-4d0c-b5d1-fa7c75997162
+
+
+Other functionalities include, leaving a comment under the post, basic update and delete functionality in the profile section of user.
 
 
